@@ -8,8 +8,9 @@
 </div>
 <div align="center">
   <br>
-  
+  <a href="https://www.linkedin.com/in/aditya-pawaskar-5696771ab">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></img>
+
   </a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Pawaskaraditya&style=flat-square&color=blue" />
@@ -24,6 +25,8 @@
 - 🌱 I’m currently learning **Advanced Java,DotNet 7.0 Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pawaskaraditya](https://github.com/Pawaskaraditya)
+- 
+- 📫 How to reach me **https://www.linkedin.com/in/aditya-pawaskar-5696771ab**
 
 
 
