@@ -1,5 +1,4 @@
 <h1>I'm Aditya Pawaskar</h1>
-<h1>I'm Aditya Pawaskar</h1>
 
 ### :sunglasses: About me :
 <h3>Software Engineer  <br>Apps that improving lives </h3>
