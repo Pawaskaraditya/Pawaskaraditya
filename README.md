@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Advanced Java,DotNet 7.0 Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pawaskaraditya](https://github.com/Pawaskaraditya)
-- 
+
 - 📫 How to reach me **https://www.linkedin.com/in/aditya-pawaskar-5696771ab**
 
 
